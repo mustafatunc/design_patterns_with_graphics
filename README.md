@@ -12,9 +12,9 @@ ML: move linear
 
 
 <p align="center">
-  <img src="https://github.com/mustafatunc/design_patterns_with_graphics/blob/master/ss1.jpg" width="350"/>
+  <img src="https://github.com/mustafatunc/design_patterns_with_graphics/blob/master/ss1.jpg" width="500"/>
 </p>
-<p>
-  <img src="https://github.com/mustafatunc/design_patterns_with_graphics/blob/master/ss2.jpg" width="350"/>
+<p align="center">
+  <img src="https://github.com/mustafatunc/design_patterns_with_graphics/blob/master/ss2.jpg" width="500"/>
 </p>
 
