@@ -1,6 +1,6 @@
 # design_patterns_with_graphics
 This is a game that only computer can play. Understanding Java and design patterns is the main purpose
-<br>
+<br><br>
 Terrorists go to a camp to wash their brains and later head to a storage to load dynamite. After equipped, they are ready to explode themselves.
 <br>
 Agent Smiths and Soldiers wander around and kill Terrorists when they are in the range.
@@ -14,9 +14,9 @@ ML: move linear<br><br>
 
 
 <p align="center">
-  <img src="https://github.com/mustafatunc/design_patterns_with_graphics/blob/master/ss1.jpg" width="500"/>
+  <img src="https://github.com/mustafatunc/design_patterns_with_graphics/blob/master/ss1.jpg" width="600"/>
 </p>
 <p align="center">
-  <img src="https://github.com/mustafatunc/design_patterns_with_graphics/blob/master/ss2.jpg" width="500"/>
+  <img src="https://github.com/mustafatunc/design_patterns_with_graphics/blob/master/ss2.jpg" width="600"/>
 </p>
 
